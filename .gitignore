@@ -1,0 +1,15 @@
+# Ignore local environments
+clara/
+env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore IDE stuff
+.vscode/
+.idea/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
